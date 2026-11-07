@@ -8,4 +8,5 @@
 - [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md) — архитектура: подсистемы, запуск, UI, модель игры, ход, ИИ, сейвы, «куда идти, если…».
 - [`docs/FILES.md`](docs/FILES.md) — каталог всех 1552 `.java`: назначение и ключевые методы каждого файла.
 - [`docs/files.json`](docs/files.json) — то же машинночитаемо.
+- [`docs/ASSETS.md`](docs/ASSETS.md) — какие ассеты нужны игре и как проверить их наличие.
 - [`docs/README.md`](docs/README.md) — как этим пользоваться и как обновить каталог.
